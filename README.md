@@ -3,7 +3,7 @@
 
 
 <p align="center">
-  <img src="assets/profile.png" width="150" height="150" alt="Profile Picture">
+  <img src="[https://github.com/nixxcop/assets/blob/main/profile.png)" width="150" height="150" alt="Profile Picture">
 </p>
 
 
