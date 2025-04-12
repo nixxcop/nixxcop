@@ -12,7 +12,7 @@
   </style>
 
 <p align="center">
-  <img src="https://github.com/nixxcop.png" alt="Profile Picture" class="circle-img" alt="Profile Picture"/>
+  <img src="https://github.com/nixxcop.png" width: 150px;  height: 150px;  border-radius: 50%;  object-fit: cover;  overflow: hidden;  class="circle-img" alt="Profile Picture"/>
 </p>
 
 
